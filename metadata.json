@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER TIZA — Cursos de Corte y Confección Textil",
+  "description": "Formación especializada en patronaje industrial, planos de corte y confección textil de alta precisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
